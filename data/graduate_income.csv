@@ -1,0 +1,1105 @@
+"Grad.School","Profession","Years","GPA","Income"
+"No","Other",5,3.26,98.9
+"Yes","Social Worker",10,3.61,77.1
+"No","Other",7,3.4,68.8
+"No","Other",10,3.22,81.7
+"No","Other",11,3.58,75.6
+"No","Social Worker",7,3.67,69.9
+"No","Social Worker",3,3.52,49.2
+"No","Social Worker",9,2.95,54.1
+"No","Other",9,3.45,58.6
+"No","Social Worker",8,3.3,61.7
+"No","Other",9,2.4,79
+"No","Other",10,2.63,54.3
+"Yes","Professor",7,3.52,61.8
+"No","Other",8,2.98,77.6
+"No","Social Worker",6,3.28,87.2
+"No","Social Worker",8,2.71,45.4
+"No","Other",2,3.25,66.5
+"No","Other",9,3.77,84.3
+"No","Other",9,3.12,55.1
+"No","Social Worker",6,3.32,63.1
+"No","Other",10,2.51,66
+"No","Other",7,3.22,73.6
+"No","Social Worker",5,2.85,55.3
+"No","Social Worker",9,3.09,47.8
+"Yes","Clinical",10,3.24,71.3
+"Yes","Clinical",9,3.58,77
+"No","Other",4,2.7,73.8
+"Yes","Clinical",5,2.71,81
+"No","Social Worker",7,3.07,84.4
+"No","Social Worker",8,3.5,78.8
+"No","Other",6,3.28,56.6
+"No","Other",8,3.28,77.9
+"Yes","Other",6,3.31,63
+"No","Other",6,2.85,56.9
+"No","Social Worker",3,3.01,69.1
+"No","Social Worker",6,2.64,38.1
+"No","Other",5,3.09,61.2
+"No","Other",5,3.1,67.1
+"Yes","Professor",6,3.72,75.9
+"Yes","Clinical",8,3.33,95.3
+"No","Other",8,2.63,45
+"No","Other",9,2.62,64.5
+"No","Social Worker",4,3.45,68.6
+"No","Social Worker",4,3.62,60.7
+"No","Other",10,3.44,77
+"No","Other",7,3.1,50.8
+"No","Social Worker",5,3.05,72.2
+"No","Social Worker",8,3.09,53.5
+"No","Social Worker",9,3.06,60.8
+"No","Social Worker",7,3.82,81.8
+"No","Other",7,3.31,34.7
+"No","Social Worker",9,3.1,77
+"No","Other",6,3.19,68.7
+"No","Social Worker",7,3.13,49.1
+"Yes","Clinical",4,3.5,71.1
+"No","Other",3,3.06,60.2
+"No","Other",6,2.61,72.1
+"No","Other",8,2.54,47.4
+"Yes","Clinical",6,3.05,90.6
+"No","Other",8,3.21,53.5
+"No","Other",5,3.41,72.4
+"No","Other",3,3.5,66.3
+"No","Other",9,3.74,96.3
+"No","Social Worker",3,3.5,54.5
+"Yes","Clinical",11,3.65,105.7
+"No","Other",5,3.1,60.3
+"No","Other",7,3,96.7
+"No","Social Worker",6,3.25,61.2
+"No","Social Worker",7,2.85,40.9
+"Yes","Clinical",11,3.49,96.2
+"No","Other",7,3.59,63.1
+"No","Other",6,2.81,73.1
+"No","Social Worker",8,3.19,65.8
+"Yes","Clinical",8,3.26,85.7
+"No","Social Worker",8,3.87,86.5
+"No","Other",8,3.66,77.7
+"Yes","Clinical",5,2.96,78.2
+"No","Other",4,3.63,46.1
+"No","Social Worker",6,3.36,77
+"No","Other",6,3.1,81
+"Yes","Social Worker",4,3.24,58.9
+"No","Social Worker",7,2.98,41.3
+"No","Other",10,3.08,73.2
+"No","Other",5,2.76,57.5
+"No","Other",8,3.22,70.1
+"No","Other",5,2.47,67.5
+"No","Social Worker",5,2.99,74
+"No","Social Worker",8,3.15,73.4
+"No","Other",8,3.64,93.7
+"No","Other",5,2.52,38.2
+"No","Other",7,3.26,70
+"Yes","Clinical",7,3.64,80
+"No","Other",11,3.39,74.7
+"No","Other",6,3.58,65.2
+"Yes","Clinical",7,3.28,63.8
+"No","Other",3,3.35,58.1
+"No","Social Worker",3,3.02,43.6
+"No","Social Worker",8,3.22,57.9
+"No","Other",5,3.31,48.9
+"No","Other",8,3.16,77.4
+"No","Other",4,2.61,71.5
+"No","Other",4,3,70
+"No","Other",7,2.91,56.5
+"No","Other",7,3.22,78.7
+"No","Social Worker",10,3.31,74.8
+"No","Social Worker",7,3.4,77.6
+"No","Other",5,3.34,66.1
+"Yes","Clinical",7,3.77,85.3
+"No","Other",5,2.61,49.9
+"No","Other",7,3.06,83.4
+"Yes","Professor",5,3.45,74.1
+"Yes","Professor",6,2.97,53.4
+"No","Other",6,3.31,54
+"Yes","Clinical",6,3.75,73.3
+"No","Social Worker",4,3.66,64.4
+"Yes","Social Worker",5,3.4,71.6
+"No","Other",7,3.26,59.5
+"Yes","Clinical",6,3.51,82.2
+"Yes","Clinical",9,3.72,94.5
+"Yes","Social Worker",7,3.59,70.1
+"No","Social Worker",4,3.08,52
+"No","Other",5,2.68,32.4
+"No","Social Worker",4,3.05,48.1
+"No","Social Worker",6,3.38,55.6
+"No","Other",8,2.91,84.8
+"No","Other",10,3.04,64.7
+"No","Other",8,3.54,79.5
+"No","Social Worker",2,3.04,59.3
+"No","Other",8,3.51,63.8
+"No","Social Worker",8,2.89,60
+"Yes","Clinical",6,3.37,92.9
+"Yes","Clinical",7,3.08,77.9
+"No","Other",7,2.57,83.1
+"No","Other",9,2.68,62.6
+"No","Social Worker",5,3.51,71.4
+"No","Other",6,2.9,79.5
+"No","Other",7,2.87,66.1
+"Yes","Other",5,3.07,79.2
+"Yes","Clinical",9,3.63,100.5
+"No","Social Worker",5,3.2,57.2
+"No","Other",5,3.28,67.9
+"Yes","Professor",5,3.57,81
+"No","Other",7,3.33,74.3
+"Yes","Clinical",8,3.07,82.1
+"No","Other",5,3.14,79
+"No","Other",11,2.58,62.1
+"Yes","Clinical",3,3.56,84.3
+"No","Other",6,3.45,81.1
+"No","Social Worker",8,3.11,47.1
+"Yes","Professor",8,3.54,77.7
+"Yes","Clinical",10,3.42,76.5
+"No","Other",4,3.1,49.8
+"No","Other",4,3.88,75.3
+"No","Social Worker",7,2.87,49.4
+"No","Other",8,3.04,80.6
+"No","Social Worker",9,2.98,87.7
+"No","Other",4,2.97,51.2
+"No","Social Worker",3,3.35,72.4
+"No","Other",8,2.96,66.9
+"Yes","Clinical",8,2.96,74.4
+"No","Other",9,3.43,80.7
+"No","Social Worker",5,3.29,68.2
+"No","Other",3,3.09,77
+"Yes","Clinical",8,3.25,69.3
+"No","Social Worker",7,2.94,62.6
+"Yes","Clinical",9,3.09,74.2
+"No","Social Worker",8,3.45,93.3
+"No","Other",7,3.02,82.6
+"No","Other",7,3.4,63
+"No","Other",7,3.57,90.9
+"No","Other",3,3.38,59.3
+"No","Social Worker",7,3.2,68.8
+"No","Social Worker",6,3.07,59.7
+"No","Other",9,2.95,61.4
+"No","Other",6,3.25,86
+"Yes","Clinical",6,3.45,75.6
+"Yes","Professor",5,3.29,48.9
+"Yes","Other",8,2.52,45.4
+"No","Other",8,2.9,48.4
+"No","Social Worker",8,3.5,72.7
+"No","Social Worker",8,3.21,55.7
+"No","Other",1,3.64,44.6
+"Yes","Clinical",10,3.22,82.3
+"Yes","Clinical",10,2.98,89.6
+"No","Other",9,3.31,82.9
+"No","Other",6,3.09,68.4
+"No","Other",6,3.28,68.7
+"No","Social Worker",7,3.34,65.2
+"Yes","Clinical",10,3.04,71.5
+"Yes","Professor",8,3.39,76.4
+"No","Social Worker",8,3.06,62.9
+"Yes","Professor",5,3.61,65.2
+"No","Other",8,3.21,54.7
+"Yes","Clinical",5,3.69,81.2
+"Yes","Clinical",4,3.1,69.8
+"No","Social Worker",7,3.22,71.3
+"No","Other",8,2.52,55.4
+"No","Other",8,2.97,56.8
+"No","Social Worker",5,2.87,57.8
+"No","Social Worker",7,3.37,73.7
+"No","Social Worker",6,3.07,60.8
+"No","Other",6,3.04,58.7
+"No","Other",5,3.36,76.9
+"No","Other",9,3.17,75.3
+"No","Social Worker",9,3.75,81.5
+"No","Social Worker",13,3.48,77.9
+"No","Social Worker",9,3.69,69.4
+"Yes","Social Worker",6,3.49,81.5
+"No","Social Worker",7,2.71,55.4
+"No","Social Worker",7,2.94,60.5
+"No","Social Worker",8,3.16,75.8
+"No","Other",8,3.02,81.6
+"Yes","Clinical",8,2.96,70.5
+"No","Social Worker",6,3.18,76.6
+"No","Social Worker",6,2.94,43.4
+"No","Other",7,3.16,47.4
+"No","Other",8,3.45,103.4
+"No","Other",7,3.15,83.6
+"No","Social Worker",3,3.08,63.9
+"Yes","Social Worker",11,3.3,58.7
+"No","Social Worker",5,3.7,78.7
+"No","Other",5,3.17,58.7
+"No","Social Worker",7,3.49,65.3
+"No","Other",10,3.41,63.9
+"No","Other",9,3.31,107.5
+"Yes","Clinical",9,2.93,69.5
+"No","Other",8,3.17,74.4
+"No","Other",9,2.71,49.4
+"No","Other",5,3.25,54.5
+"No","Social Worker",7,3.14,69.5
+"No","Other",9,3.58,72
+"Yes","Professor",6,3.93,84.6
+"No","Other",7,3.41,61.5
+"No","Social Worker",4,3.59,84.3
+"Yes","Other",5,2.69,57
+"No","Other",8,3.44,61.2
+"No","Social Worker",6,3.62,84.4
+"No","Social Worker",8,2.84,48.6
+"No","Social Worker",3,2.88,44.4
+"No","Social Worker",7,3.18,56.8
+"No","Social Worker",6,2.94,78.1
+"No","Other",4,3.56,68.9
+"No","Social Worker",5,3.06,50
+"Yes","Clinical",7,3.89,74
+"No","Social Worker",6,3.04,64.6
+"No","Social Worker",0,3.24,63.6
+"No","Social Worker",7,3.33,46
+"No","Other",5,2.79,55.2
+"No","Other",11,2.74,81.3
+"No","Social Worker",7,2.96,53.5
+"No","Social Worker",5,2.99,75.2
+"No","Other",6,2.93,71.6
+"No","Social Worker",13,3.26,85.5
+"No","Other",8,3.16,119.2
+"No","Social Worker",6,3.29,75.9
+"No","Other",10,3.19,69.5
+"No","Social Worker",9,3.1,49.4
+"No","Other",8,2.84,97.8
+"Yes","Clinical",6,2.79,79.3
+"No","Other",6,2.98,65
+"No","Other",10,3.26,90.2
+"No","Social Worker",9,3.82,62.7
+"No","Social Worker",6,3.27,63.4
+"Yes","Clinical",4,3.66,78.8
+"No","Other",7,3.22,67
+"Yes","Other",9,3.47,88.4
+"Yes","Clinical",8,3.39,88.1
+"No","Other",4,3.32,77.7
+"No","Social Worker",4,3.07,51.1
+"Yes","Clinical",2,4,93
+"Yes","Clinical",4,3.04,60.3
+"Yes","Clinical",8,2.99,78.8
+"Yes","Clinical",5,3.81,85.3
+"No","Other",9,3.82,59.3
+"No","Other",4,3.13,52.4
+"No","Social Worker",7,3.11,72.6
+"No","Social Worker",9,3,69.7
+"No","Social Worker",6,3.4,68.7
+"No","Social Worker",6,3.47,49.5
+"Yes","Clinical",9,3.51,56.3
+"Yes","Professor",5,3.75,67.8
+"No","Other",6,3.07,56.8
+"No","Other",6,3.13,80.9
+"No","Other",8,2.69,70.9
+"No","Other",6,3.13,52.4
+"No","Social Worker",10,3.71,78
+"No","Other",6,3.24,66.5
+"No","Social Worker",5,3.46,68.9
+"No","Other",7,3.23,82.6
+"Yes","Professor",4,3.85,81.2
+"No","Other",7,3.24,58.1
+"Yes","Clinical",8,3.53,85.2
+"No","Other",6,3.16,75.4
+"No","Social Worker",7,3.41,65.6
+"No","Other",9,2.95,61.4
+"No","Social Worker",5,3.75,62.3
+"Yes","Clinical",8,2.89,69.6
+"No","Social Worker",10,3.77,93.4
+"No","Social Worker",9,3.3,88.9
+"Yes","Clinical",5,3.36,91.2
+"No","Other",5,3.29,66.9
+"No","Other",3,3.43,65.4
+"No","Social Worker",6,3.11,63.9
+"No","Other",6,2.77,50.6
+"No","Other",5,2.83,69.2
+"No","Social Worker",7,3.47,57.6
+"No","Social Worker",7,3.17,44.6
+"No","Social Worker",10,3.37,48.3
+"No","Social Worker",8,3.56,48.1
+"No","Other",10,2.85,73.9
+"No","Social Worker",6,3.29,62.4
+"Yes","Professor",6,3.05,53.8
+"Yes","Clinical",7,3.37,83.1
+"No","Other",5,3.3,54.6
+"Yes","Professor",10,4,94.7
+"No","Social Worker",3,3.48,67.1
+"No","Social Worker",4,2.94,68.8
+"No","Other",5,2.99,60.6
+"No","Other",3,3.19,70.1
+"No","Social Worker",6,3.43,66.4
+"No","Other",8,3.16,70.5
+"No","Other",4,3.19,25.6
+"Yes","Professor",9,3.17,49.6
+"No","Other",5,3.15,71.4
+"No","Social Worker",6,3.06,84.3
+"No","Social Worker",5,3.13,64.5
+"No","Other",5,3.13,60.1
+"No","Social Worker",10,3.83,70.7
+"No","Other",8,3.03,71.5
+"No","Social Worker",10,3.48,72.6
+"No","Social Worker",7,3.17,62.9
+"No","Social Worker",8,3.53,64.8
+"No","Social Worker",10,3.01,70.7
+"No","Other",10,3.17,74.4
+"No","Other",3,2.69,43.7
+"No","Other",6,3,62.5
+"Yes","Clinical",10,3.17,93.3
+"No","Other",6,2.86,57.4
+"No","Other",6,2.99,65.1
+"No","Other",2,2.96,108.9
+"Yes","Clinical",8,3.18,94
+"No","Social Worker",9,3.5,64.4
+"No","Social Worker",9,3.4,83
+"No","Other",10,2.78,63.5
+"Yes","Professor",7,3.34,81.5
+"No","Social Worker",5,3.31,48.7
+"No","Other",5,3.25,47.3
+"No","Other",6,3.13,70.1
+"Yes","Clinical",6,3.31,100.1
+"No","Other",4,3.13,78.6
+"No","Social Worker",6,3.29,50
+"No","Other",5,2.57,88.9
+"No","Social Worker",5,3.46,56.8
+"No","Other",8,3.17,74.3
+"Yes","Clinical",4,3.45,73.8
+"No","Social Worker",9,3.51,79.7
+"No","Other",9,3.28,81.2
+"No","Social Worker",6,3.38,54.5
+"No","Social Worker",7,3.72,85.7
+"No","Other",4,3.1,63
+"No","Other",8,3.09,56.4
+"No","Other",2,3.41,57.6
+"No","Other",6,3.21,50.7
+"No","Social Worker",10,3.21,70
+"No","Social Worker",8,3.56,83
+"No","Other",7,2.77,65.8
+"Yes","Clinical",9,3.32,79.2
+"Yes","Clinical",5,3,88
+"No","Social Worker",7,3.46,73.7
+"No","Other",8,3.01,72.2
+"No","Social Worker",6,3.4,51.2
+"No","Other",9,3.34,101.6
+"No","Other",6,2.81,51.2
+"Yes","Clinical",11,3.03,62.3
+"Yes","Clinical",4,2.84,101
+"No","Other",11,2.19,69.3
+"No","Social Worker",8,3.26,63
+"Yes","Clinical",8,2.86,90.1
+"No","Other",6,2.95,70.9
+"No","Other",7,3.13,80.7
+"No","Other",7,3,56.6
+"Yes","Clinical",4,3.82,80.8
+"No","Social Worker",7,3.38,62.5
+"No","Other",4,3.21,70.6
+"No","Social Worker",7,3.37,54.5
+"No","Social Worker",4,3.14,57.5
+"No","Other",5,3.26,77.9
+"No","Other",7,2.93,43.6
+"No","Other",4,2.83,46.8
+"Yes","Clinical",11,3.12,91.9
+"No","Social Worker",4,3.65,66.2
+"No","Other",8,3.28,70.8
+"No","Social Worker",8,3,62.9
+"No","Other",7,3.24,69.6
+"Yes","Clinical",8,3.18,85.7
+"Yes","Clinical",8,3.18,94.4
+"No","Other",7,3.48,64.7
+"No","Other",10,3.85,101.4
+"No","Other",9,3.15,54
+"No","Other",7,3.32,74.9
+"Yes","Clinical",7,2.81,67.2
+"No","Other",5,3.31,74.2
+"No","Social Worker",5,3.79,44.7
+"No","Social Worker",9,3.31,70.7
+"No","Social Worker",8,3.06,70
+"No","Social Worker",7,3.49,47.8
+"No","Social Worker",7,3.27,56.3
+"No","Other",7,2.84,48
+"No","Other",9,3.52,67.1
+"Yes","Clinical",5,2.99,86.3
+"No","Other",9,2.77,49.6
+"No","Social Worker",8,3.06,63.9
+"No","Social Worker",8,3.05,36.4
+"No","Other",9,2.45,79.1
+"No","Social Worker",9,3.32,48.6
+"No","Social Worker",4,3.16,72.3
+"No","Other",8,3.51,77.4
+"No","Other",8,3.05,47.1
+"No","Social Worker",8,3.37,72.4
+"Yes","Clinical",5,3.02,59
+"Yes","Clinical",8,3.65,86.1
+"Yes","Clinical",1,3.32,73.7
+"No","Social Worker",6,3.41,68
+"No","Other",6,2.82,45.3
+"No","Other",7,2.74,54.9
+"Yes","Clinical",8,3.49,89.3
+"No","Social Worker",9,3.61,52.6
+"No","Social Worker",7,3.34,56.6
+"No","Other",5,2.71,63.8
+"No","Social Worker",8,3.58,75.3
+"No","Other",7,3.06,81
+"No","Other",6,3.45,46.2
+"No","Other",9,3.36,71
+"Yes","Clinical",5,3.36,80.8
+"No","Social Worker",6,3.1,47
+"Yes","Clinical",8,3.16,91.3
+"No","Social Worker",7,3.25,50.5
+"No","Other",3,3.31,65.1
+"No","Other",10,2.91,50.5
+"No","Other",5,3.44,75.1
+"No","Other",7,3.1,78.6
+"No","Social Worker",7,3.33,98.9
+"No","Social Worker",7,3.46,81.2
+"No","Social Worker",2,3.38,49.6
+"No","Other",7,2.81,75.7
+"No","Social Worker",7,2.96,66.7
+"Yes","Clinical",11,3.7,107.5
+"No","Other",8,3.49,84.3
+"Yes","Social Worker",6,3.21,52.5
+"No","Social Worker",5,2.41,11.1
+"No","Social Worker",9,3.67,83.2
+"No","Other",6,2.98,75.8
+"No","Social Worker",7,2.95,70.5
+"Yes","Clinical",8,3.28,77.3
+"No","Other",10,2.26,43.2
+"No","Other",6,3.44,76
+"No","Other",8,3.03,71.1
+"No","Other",8,3.32,85.1
+"No","Other",12,3.48,80.3
+"No","Other",9,2.8,43.3
+"No","Other",9,2.8,52
+"No","Other",5,2.95,77.5
+"No","Social Worker",9,3.69,70.4
+"No","Other",9,3.08,44.8
+"No","Other",10,3.24,82.1
+"No","Other",9,3.17,88.2
+"Yes","Clinical",8,3.53,94.8
+"Yes","Clinical",8,3.45,91.1
+"No","Social Worker",8,2.94,48.9
+"No","Other",9,3.23,99.3
+"Yes","Clinical",3,2.92,60
+"No","Social Worker",7,3.38,71.6
+"No","Other",6,3.07,57.8
+"Yes","Professor",8,3.3,58.5
+"No","Other",6,3.32,57.7
+"No","Social Worker",7,3.17,53.5
+"No","Other",10,3.13,77.1
+"No","Other",3,2.82,62.8
+"No","Other",3,3.11,50.9
+"No","Social Worker",8,3.26,68.2
+"No","Social Worker",6,2.94,76.9
+"No","Other",4,3.02,54.5
+"No","Other",10,3.18,85
+"No","Social Worker",9,3.58,46.8
+"No","Other",7,3.34,83
+"No","Other",9,3.19,80.9
+"No","Other",7,3.47,75.3
+"Yes","Clinical",8,3.81,102.4
+"No","Other",8,3.01,74.8
+"No","Other",8,3.4,53.6
+"No","Other",8,3.04,63.8
+"No","Social Worker",5,3.45,46.6
+"No","Other",6,3.46,71
+"Yes","Clinical",8,3.32,73.5
+"No","Other",5,3.16,60.2
+"No","Other",10,3.22,63.3
+"No","Social Worker",9,3.06,56.2
+"No","Other",3,3.67,55.7
+"No","Social Worker",9,2.97,56.7
+"No","Other",5,2.82,48.3
+"No","Other",10,3.24,55.6
+"No","Social Worker",7,3.09,81.6
+"No","Other",8,3.07,46.2
+"Yes","Clinical",8,3.48,74.5
+"No","Social Worker",6,3.25,49.9
+"Yes","Clinical",6,3.48,71
+"Yes","Clinical",10,3.04,87.8
+"No","Other",9,2.52,63.9
+"No","Social Worker",6,3.56,79.5
+"No","Social Worker",8,3.9,76.2
+"No","Other",8,3.22,61
+"No","Social Worker",5,3.14,77.5
+"No","Other",1,3.05,80.7
+"No","Other",7,2.97,69.1
+"No","Other",6,2.79,65.7
+"Yes","Clinical",3,3.35,68.5
+"Yes","Clinical",9,3.49,83.2
+"No","Other",8,3.22,70.2
+"No","Other",6,3.15,69.6
+"No","Other",5,3.39,64.3
+"No","Social Worker",8,3.22,81.8
+"No","Other",8,2.9,61.4
+"No","Social Worker",8,2.9,41.9
+"Yes","Social Worker",7,3.19,55
+"No","Social Worker",12,3.44,75.1
+"No","Social Worker",9,3.49,80.3
+"No","Other",5,3.41,55
+"No","Other",5,3.28,76.3
+"Yes","Clinical",8,2.99,93.1
+"No","Social Worker",9,3.85,51.4
+"No","Other",7,3.06,63.9
+"No","Other",9,3.12,78.8
+"No","Social Worker",10,3.06,56.1
+"No","Other",6,2.54,57.8
+"No","Social Worker",6,2.85,33.3
+"Yes","Clinical",9,3.29,77.9
+"Yes","Clinical",7,3.17,90.7
+"Yes","Clinical",11,3.72,95.1
+"No","Other",12,3.33,88.3
+"Yes","Other",7,2.84,58.6
+"No","Social Worker",4,4,74.8
+"No","Social Worker",2,2.97,62.9
+"No","Other",8,3.49,87.5
+"No","Other",6,2.88,69.4
+"No","Other",6,3.33,84.9
+"No","Other",9,3.23,79.4
+"No","Social Worker",7,2.94,72
+"No","Other",7,3.18,68
+"No","Other",7,3.06,57.8
+"No","Other",7,3.3,71.4
+"No","Other",8,3.19,58.7
+"No","Other",9,3.68,109.7
+"No","Other",10,3.37,64.7
+"No","Social Worker",6,3.38,55.5
+"No","Other",7,3.34,85.7
+"No","Other",11,2.92,88.7
+"No","Social Worker",4,3.28,64.7
+"No","Social Worker",6,3.25,70.2
+"No","Other",5,3.8,89.6
+"No","Social Worker",6,3.05,68.5
+"No","Other",7,3.08,51.5
+"No","Other",6,3.2,94.9
+"No","Other",5,2.96,42.6
+"No","Other",3,3.3,67.8
+"No","Other",7,2.04,62
+"No","Social Worker",11,2.69,59.5
+"No","Other",4,2.75,28.5
+"No","Social Worker",3,3.22,72.9
+"No","Other",6,3,51
+"No","Other",6,3.57,74.5
+"No","Social Worker",5,3.86,65.7
+"Yes","Clinical",10,3.16,69
+"No","Other",9,3.29,87.3
+"No","Other",7,3.18,97.7
+"No","Social Worker",5,3.01,63.9
+"No","Other",5,2.76,67.5
+"No","Other",4,3.04,80.1
+"Yes","Other",9,2.62,71.5
+"No","Social Worker",8,2.91,45.5
+"Yes","Clinical",8,3.18,110.9
+"Yes","Clinical",8,3.16,85.7
+"No","Social Worker",6,3.76,62.5
+"No","Social Worker",3,3.44,67.5
+"No","Other",8,3.72,105.1
+"No","Other",13,3.14,67.4
+"No","Other",3,3.17,75.3
+"No","Other",4,2.85,57.5
+"No","Other",3,2.84,55.8
+"No","Other",4,3.24,74.7
+"Yes","Professor",11,3.45,69.5
+"Yes","Clinical",5,2.76,70.9
+"No","Social Worker",7,3.4,82.2
+"No","Social Worker",8,3.49,62.7
+"No","Other",7,3.79,69.2
+"No","Other",8,3.65,100.1
+"No","Other",8,3.13,69.5
+"No","Other",8,3.24,69.6
+"No","Social Worker",5,3.15,54.1
+"Yes","Clinical",8,3.1,108.1
+"No","Other",9,3.2,86.3
+"No","Other",7,3.28,63.9
+"No","Social Worker",6,3.16,57
+"Yes","Clinical",4,3.23,80.9
+"Yes","Clinical",7,3.11,77.8
+"Yes","Social Worker",10,3.16,66.3
+"No","Social Worker",6,2.97,32.7
+"No","Social Worker",5,3.59,71
+"No","Social Worker",9,3.48,71.2
+"No","Social Worker",6,3.65,74.9
+"No","Other",9,2.6,57.5
+"No","Other",7,3.41,70.2
+"No","Social Worker",7,3.46,56.1
+"No","Social Worker",9,3.25,62.3
+"No","Other",6,3.3,52.1
+"Yes","Clinical",10,3.63,94.5
+"No","Social Worker",5,3.21,70.9
+"Yes","Professor",4,3.37,94
+"No","Other",2,2.98,62.4
+"No","Other",8,3.16,68.2
+"No","Other",8,3.86,77.6
+"Yes","Clinical",9,3.03,72.3
+"Yes","Clinical",3,3.6,98.5
+"No","Other",5,3.05,70.2
+"No","Other",9,3.01,48
+"Yes","Clinical",4,2.96,67.8
+"No","Other",9,3.07,57.2
+"No","Other",6,2.89,69.7
+"Yes","Clinical",8,3.4,95.1
+"No","Social Worker",6,3.08,56.9
+"No","Other",4,3.25,92.7
+"No","Social Worker",5,4,79.5
+"No","Other",4,3.25,58.1
+"Yes","Clinical",6,3.32,80.3
+"No","Other",7,2.81,59.5
+"No","Other",6,2.72,50.7
+"No","Other",9,2.45,55.9
+"No","Other",9,3.36,74.5
+"No","Social Worker",8,3.45,46.7
+"No","Social Worker",8,3.34,47.7
+"No","Other",7,3.35,85.2
+"No","Other",8,3.11,46.4
+"No","Social Worker",9,3.3,76.9
+"No","Social Worker",8,3.47,53
+"No","Other",9,3.33,86.4
+"No","Other",6,2.72,55.1
+"No","Other",4,3.25,63.6
+"No","Other",6,2.91,78.3
+"Yes","Clinical",8,3.71,81.5
+"No","Other",6,2.82,52
+"No","Other",7,2.8,52.8
+"No","Other",9,2.88,60.6
+"No","Other",8,3.3,63.9
+"No","Other",9,3.33,82.6
+"No","Social Worker",5,3.42,62.4
+"No","Social Worker",8,3.73,85.2
+"No","Other",8,3.22,58.4
+"No","Other",6,2.89,45.8
+"No","Other",7,3.52,75.3
+"Yes","Clinical",7,3.25,82.8
+"No","Social Worker",9,2.82,64.9
+"No","Other",8,2.68,53.1
+"No","Other",7,3.53,86.6
+"No","Social Worker",7,3.49,57.7
+"Yes","Other",7,3.09,50.8
+"No","Other",6,3.26,76.5
+"Yes","Clinical",7,3.31,79.8
+"No","Other",4,3.13,69.4
+"No","Social Worker",2,2.94,24.6
+"No","Other",8,2.6,46.3
+"No","Other",8,3.11,81
+"No","Other",8,2.99,61.8
+"No","Social Worker",6,3.07,52.9
+"No","Other",10,3.29,76.4
+"No","Social Worker",10,3.43,60.8
+"No","Other",8,2.95,75
+"No","Other",10,3.07,76.9
+"No","Social Worker",5,3.44,57.7
+"No","Other",9,2.98,79
+"Yes","Other",4,3.12,53
+"No","Social Worker",7,3,80.7
+"Yes","Clinical",10,4,94.4
+"No","Other",5,3.32,66.8
+"Yes","Clinical",6,3.36,101.5
+"No","Other",5,3.26,70.4
+"No","Social Worker",9,3.18,77.1
+"No","Other",4,3.01,106.6
+"No","Other",6,3.96,70.6
+"No","Social Worker",5,3.17,57.2
+"No","Other",4,3.08,69.1
+"No","Other",7,3.05,61.9
+"No","Other",9,3.17,75.9
+"No","Other",7,3.62,69.7
+"No","Other",12,3.32,101.3
+"No","Other",9,3.01,90.2
+"No","Other",7,3.2,64.9
+"No","Social Worker",4,3.02,48.8
+"No","Other",7,3.17,77.2
+"No","Social Worker",9,3.09,69.3
+"No","Other",7,3.44,78.7
+"No","Other",8,3.53,62
+"No","Other",4,2.85,31.8
+"Yes","Clinical",7,3.18,106.3
+"No","Other",8,3.53,98.4
+"Yes","Clinical",8,2.52,63.4
+"No","Social Worker",7,3.1,42.2
+"No","Social Worker",7,3.3,72.6
+"No","Other",8,3.1,51.5
+"No","Social Worker",3,2.76,51.4
+"No","Other",5,3.16,36.1
+"No","Other",6,2.66,59.2
+"Yes","Clinical",9,3.19,68.3
+"No","Other",6,3.18,89.5
+"No","Other",9,2.79,42.8
+"No","Other",4,2.97,64.2
+"Yes","Other",9,3.03,61.4
+"No","Other",9,3.12,82
+"No","Social Worker",4,3.17,41.8
+"No","Other",7,2.83,53.2
+"No","Other",10,3.06,61.4
+"No","Other",6,3.07,75.2
+"No","Social Worker",7,3.27,57.6
+"No","Other",6,3.88,66.5
+"No","Social Worker",7,3.21,75.3
+"No","Social Worker",8,3.67,57.5
+"No","Other",5,3.21,59
+"No","Other",7,3.25,92.8
+"Yes","Professor",8,3.11,76.4
+"No","Other",12,3.35,68.7
+"No","Social Worker",11,3.01,33.9
+"No","Other",7,3.57,81.2
+"No","Other",4,2.32,24.6
+"No","Social Worker",8,3.32,76.5
+"No","Other",5,3.47,58.1
+"No","Social Worker",8,2.97,68
+"No","Social Worker",9,3,51.4
+"No","Other",5,3.23,55.8
+"No","Social Worker",9,3.33,64.4
+"No","Other",6,3.09,78.7
+"No","Social Worker",11,3.42,79.3
+"No","Social Worker",12,3.11,56.2
+"No","Social Worker",4,3.83,59.6
+"No","Social Worker",7,3.49,77.9
+"No","Other",10,2.75,74.5
+"Yes","Professor",0,3.23,77.1
+"No","Other",7,2.58,58.9
+"No","Other",4,3.06,87.7
+"No","Other",7,3.27,74.6
+"No","Social Worker",8,3.02,44.5
+"No","Social Worker",7,2.68,59.8
+"No","Social Worker",10,3.49,82.5
+"No","Social Worker",6,2.97,64.6
+"Yes","Clinical",5,3.44,94
+"No","Social Worker",4,3.34,53.9
+"No","Other",8,2.87,57.4
+"No","Other",6,3.09,65
+"No","Other",7,2.96,69.9
+"Yes","Clinical",7,3.51,99.6
+"No","Social Worker",5,3.43,66.8
+"No","Other",5,3.27,86.3
+"No","Other",6,3.28,58.6
+"No","Other",7,3.27,65
+"Yes","Clinical",6,3.54,63.7
+"Yes","Clinical",4,3.23,83.9
+"No","Social Worker",5,2.67,54.8
+"No","Social Worker",8,3.31,69.6
+"No","Other",10,3.39,81.6
+"No","Social Worker",4,3.14,55.1
+"No","Other",7,3.23,73.1
+"No","Social Worker",12,2.85,76.3
+"Yes","Professor",10,3.53,95.2
+"No","Other",10,3.08,78.4
+"No","Other",4,3.04,65.4
+"No","Social Worker",6,3.34,53.5
+"No","Other",4,2.83,51.7
+"No","Other",6,2.8,74.5
+"No","Social Worker",5,3.05,76.9
+"No","Social Worker",9,3.39,92.5
+"No","Social Worker",5,3.37,64.9
+"No","Other",10,3.15,87.2
+"No","Other",8,3.22,63
+"No","Social Worker",8,3.7,102.7
+"No","Social Worker",2,3.34,51
+"No","Social Worker",8,2.96,66.6
+"No","Other",12,3.57,71.9
+"No","Other",7,3.07,56.8
+"Yes","Clinical",4,3.25,76
+"No","Other",4,2.98,63.9
+"No","Other",5,3.22,70.4
+"No","Social Worker",9,3.18,48.9
+"No","Social Worker",9,2.8,56.3
+"Yes","Clinical",11,3.19,78.5
+"No","Other",8,3.21,59.7
+"No","Other",7,2.97,55.6
+"Yes","Clinical",8,3.65,72.5
+"No","Other",11,3.04,48
+"No","Other",7,3.46,98
+"No","Social Worker",8,3.54,60.4
+"No","Other",6,3.23,44
+"No","Social Worker",7,3.01,49.2
+"No","Other",9,3.41,70.5
+"No","Social Worker",10,3.14,75.3
+"No","Other",4,3.16,51.8
+"No","Other",8,3.2,74.3
+"No","Social Worker",4,3.41,49.2
+"No","Social Worker",9,2.94,60.1
+"No","Other",10,3.06,116.4
+"No","Social Worker",5,2.86,56
+"No","Social Worker",11,2.74,62.1
+"No","Social Worker",5,2.56,56.4
+"No","Other",8,3.34,60.2
+"No","Social Worker",6,3.31,67.7
+"No","Other",9,2.99,65.2
+"No","Social Worker",8,2.86,43
+"No","Other",7,2.79,51.2
+"No","Social Worker",4,3.36,55.8
+"Yes","Clinical",10,3.65,83.6
+"Yes","Clinical",7,3.45,65.4
+"No","Social Worker",8,3.26,68.1
+"No","Other",3,3.4,67.9
+"No","Other",4,2.87,52.6
+"No","Other",2,2.73,51.1
+"No","Social Worker",6,3.31,58.4
+"No","Other",10,2.74,51.3
+"No","Other",8,3.25,58.1
+"No","Other",7,3.24,62.9
+"No","Other",6,3.15,63.1
+"No","Social Worker",10,3.5,80.1
+"No","Other",8,3.37,77.5
+"No","Other",2,2.84,45.4
+"No","Social Worker",5,3.09,51.3
+"Yes","Clinical",8,3.49,74.7
+"No","Other",8,3.04,81.3
+"No","Social Worker",10,3.41,72.1
+"No","Social Worker",5,3.44,69.9
+"No","Other",6,3.08,62.9
+"No","Social Worker",9,3.55,63.4
+"No","Social Worker",8,2.85,66.8
+"No","Social Worker",6,3.29,57.6
+"No","Other",7,3.21,60.4
+"No","Other",8,2.89,62.4
+"No","Other",8,3.39,75.3
+"No","Other",12,2.99,55.7
+"No","Social Worker",5,3.2,70.7
+"No","Other",6,3.42,69.3
+"Yes","Clinical",5,3.19,89.6
+"No","Other",5,2.96,52
+"Yes","Clinical",5,3.13,64
+"No","Other",11,3.52,67.5
+"No","Other",11,3.76,76.7
+"No","Other",9,3.13,64.3
+"No","Other",7,3.14,56
+"No","Social Worker",3,2.64,73.1
+"No","Social Worker",8,3.82,64.9
+"No","Social Worker",6,2.96,64.7
+"Yes","Professor",7,3.18,81.3
+"No","Other",7,2.89,53.1
+"Yes","Clinical",5,3.28,91.8
+"No","Other",3,3.25,48.1
+"No","Other",14,3.49,75.2
+"No","Other",7,2.81,50.3
+"No","Social Worker",3,3.85,76.7
+"No","Social Worker",3,3.55,60.2
+"Yes","Clinical",8,3.54,84.2
+"No","Other",8,2.38,79
+"No","Social Worker",6,3.47,64.5
+"No","Other",9,3.13,72.7
+"Yes","Clinical",7,3.6,94.4
+"No","Social Worker",7,3.41,75.6
+"No","Other",7,3.25,64.2
+"No","Social Worker",6,3.28,74.8
+"No","Social Worker",6,3.08,79.8
+"No","Social Worker",9,3.46,68.3
+"No","Other",4,2.76,60.1
+"No","Social Worker",6,3.22,67.3
+"No","Social Worker",5,3.12,74.9
+"Yes","Clinical",6,3.43,78
+"No","Other",6,2.76,49.4
+"No","Other",10,2.76,71.2
+"No","Other",6,3.05,59.9
+"No","Other",8,3.74,92.8
+"No","Other",4,3.52,79.1
+"No","Other",8,3.35,78.5
+"No","Other",9,2.72,92.2
+"No","Other",9,3.31,67.9
+"Yes","Professor",11,3.01,66.4
+"No","Social Worker",3,2.81,74.8
+"No","Other",5,3.01,72.2
+"No","Other",8,2.66,59.4
+"No","Other",6,2.65,59.8
+"No","Social Worker",5,3.25,56.3
+"No","Other",9,2.97,48.5
+"Yes","Professor",9,3.38,72.2
+"No","Social Worker",4,3.47,44.1
+"No","Social Worker",5,3.51,61
+"No","Social Worker",7,3.06,63.5
+"No","Other",5,3.56,48.5
+"No","Social Worker",6,3.31,66.4
+"No","Other",6,3.09,91.4
+"Yes","Clinical",7,3.42,91.3
+"No","Social Worker",8,3.08,64.4
+"No","Other",6,3.22,67.4
+"No","Other",8,3.06,96.4
+"No","Other",9,2.57,80.7
+"Yes","Clinical",8,2.76,66.7
+"No","Other",11,3.14,76.8
+"No","Other",7,2.9,51.1
+"Yes","Clinical",6,3.39,68
+"No","Other",10,3.36,83.7
+"No","Other",4,3.02,86.6
+"Yes","Clinical",7,3.52,86.6
+"Yes","Professor",8,2.67,80.5
+"No","Other",6,3.17,63.5
+"No","Other",5,3.19,39.3
+"No","Social Worker",7,3.48,61.8
+"Yes","Clinical",7,3.55,77.1
+"No","Other",6,3.03,59.8
+"No","Other",6,3.61,66.3
+"Yes","Clinical",7,3.45,83.4
+"No","Other",6,3.13,64
+"Yes","Clinical",6,3.19,91.6
+"No","Other",7,3.04,81.5
+"No","Social Worker",6,3.07,86.1
+"No","Social Worker",9,3.59,52.8
+"No","Social Worker",7,3.29,68.9
+"No","Social Worker",7,3.16,42
+"No","Social Worker",7,2.96,72.6
+"No","Social Worker",6,3.23,48.6
+"No","Social Worker",6,3.27,61.1
+"No","Other",4,3.34,70
+"No","Social Worker",7,3.38,63
+"No","Social Worker",7,3.35,59.4
+"No","Social Worker",2,3.36,62.3
+"No","Other",7,2.86,51.7
+"No","Social Worker",4,3.08,47.7
+"Yes","Social Worker",9,2.95,71.9
+"No","Social Worker",8,3.43,68.7
+"No","Other",7,2.73,60.7
+"Yes","Clinical",9,3.01,84.9
+"No","Other",6,2.72,61.6
+"Yes","Other",5,3.12,45.4
+"No","Other",10,3.09,78.4
+"No","Other",5,2.86,43.9
+"No","Other",6,2.98,46.9
+"No","Other",7,3.03,87.9
+"No","Social Worker",9,2.93,72.4
+"No","Other",7,3.33,82.6
+"No","Other",8,3.08,63.9
+"No","Other",10,3,68.9
+"No","Other",6,3.17,68
+"No","Other",8,3.24,80.4
+"No","Social Worker",7,3.4,74.8
+"No","Other",7,3.2,49.9
+"No","Social Worker",7,3.63,57.7
+"Yes","Social Worker",7,3.41,76.9
+"Yes","Clinical",7,3.27,78.2
+"No","Other",6,3.26,72.1
+"No","Social Worker",10,2.84,59.4
+"Yes","Clinical",7,3.41,100.3
+"No","Other",5,3.26,66.1
+"No","Other",6,3.5,69.4
+"No","Social Worker",7,2.95,71
+"No","Other",8,2.94,58.1
+"No","Other",6,3.2,50.9
+"No","Social Worker",4,3.24,44.6
+"No","Other",6,2.92,70
+"No","Social Worker",4,3.1,60
+"No","Other",5,2.53,55.8
+"No","Other",5,3.21,69.7
+"No","Social Worker",8,3.76,87.7
+"Yes","Clinical",4,3.44,81.2
+"Yes","Clinical",6,3.65,72.7
+"No","Social Worker",7,2.99,44.7
+"No","Other",6,3.42,58.6
+"No","Social Worker",7,2.88,45.3
+"Yes","Clinical",7,3.59,94.2
+"No","Other",7,2.55,58.4
+"No","Social Worker",10,2.74,56.4
+"No","Social Worker",8,3.32,79.4
+"No","Other",13,2.73,75.6
+"Yes","Clinical",7,3.33,61.2
+"No","Other",5,2.93,55.3
+"Yes","Clinical",5,3.62,101.4
+"No","Other",10,3.39,85.8
+"No","Social Worker",3,3.49,54.2
+"No","Other",9,2.8,82.6
+"Yes","Clinical",7,3.24,80.2
+"No","Social Worker",7,3.2,52.1
+"No","Other",4,3.06,61.4
+"No","Social Worker",8,3.36,82.1
+"No","Other",6,2.79,76.9
+"No","Other",9,2.45,44.4
+"No","Social Worker",7,3.26,61.2
+"No","Other",5,2.65,83
+"No","Social Worker",4,2.87,66.3
+"No","Other",7,3.44,66.2
+"No","Other",7,3.23,62.5
+"No","Social Worker",8,3.46,79.7
+"No","Other",6,3.56,81
+"Yes","Clinical",5,3.81,79.2
+"No","Other",10,2.98,96.9
+"No","Other",5,2.93,49.6
+"No","Other",8,2.87,70.4
+"No","Other",9,3.41,84
+"No","Social Worker",7,3.16,65.8
+"Yes","Clinical",8,3.08,56.2
+"No","Social Worker",10,3.26,87.9
+"No","Other",6,3.26,66.8
+"No","Social Worker",8,3.3,81.9
+"Yes","Other",5,3.38,76
+"No","Social Worker",7,3.48,61.7
+"Yes","Other",9,3.02,51.6
+"No","Other",7,2.88,76.6
+"No","Other",5,3.63,87.2
+"No","Social Worker",9,3,78
+"No","Social Worker",3,2.79,29.9
+"No","Other",5,2.69,64.4
+"No","Social Worker",5,2.95,39.9
+"No","Social Worker",9,3.13,80.9
+"No","Other",4,2.54,66.8
+"No","Social Worker",11,3.52,34
+"No","Other",10,2.97,65.1
+"No","Other",8,3.1,78.5
+"No","Other",6,2.76,55.9
+"No","Other",7,3.17,85.7
+"No","Other",9,3.37,56.3
+"No","Other",3,3.08,61.4
+"No","Other",10,3.42,81.3
+"No","Other",5,3.46,49.7
+"Yes","Clinical",9,3.57,81
+"No","Social Worker",4,3.58,62.2
+"No","Other",8,3.51,40
+"No","Social Worker",7,3.08,82.4
+"No","Other",9,2.53,45.1
+"No","Other",5,3.11,79.1
+"No","Other",5,2.58,41.1
+"No","Other",7,3.22,63
+"No","Social Worker",6,2.92,54.2
+"No","Other",9,3.36,43.8
+"Yes","Clinical",9,3.45,81
+"No","Social Worker",7,4,70
+"No","Other",7,3.21,50.3
+"No","Other",9,3.25,108.8
+"No","Social Worker",7,3.13,80.7
+"No","Other",6,3.09,76.3
+"No","Other",10,3.25,68.7
+"No","Social Worker",3,3.07,57.6
+"No","Other",8,3.48,74.8
+"Yes","Clinical",6,2.96,72.9
+"No","Other",6,3.09,69.3
+"No","Other",6,3.38,67.6
+"No","Social Worker",8,3.5,92.7
+"No","Social Worker",12,3.2,81.8
+"No","Other",4,2.95,80
+"No","Other",8,2.51,56.6
+"No","Social Worker",5,3.26,53.1
+"No","Other",8,3.18,87.8
+"No","Other",5,3.19,63.4
+"No","Other",6,2.99,76.6
+"No","Social Worker",9,3.14,71.9
+"No","Other",8,3.24,93.8
+"No","Other",6,3.07,63.7
+"No","Social Worker",10,3.32,74.2
+"Yes","Clinical",8,3.21,68.6
+"No","Social Worker",8,2.49,49.7
+"Yes","Clinical",5,3.28,68.6
+"No","Other",6,2.49,43.7
+"Yes","Clinical",7,3.35,59.4
+"No","Other",5,2.9,91.4
+"No","Social Worker",3,3.07,54.7
+"Yes","Clinical",4,3.38,54.5
+"No","Other",10,4,115.8
+"No","Social Worker",7,2.86,69.9
+"No","Other",6,2.75,81.5
+"Yes","Clinical",7,3.14,85.1
+"No","Social Worker",6,3.3,56.2
+"No","Other",9,3.32,61.5
+"No","Other",5,2.89,70.2
+"No","Other",6,3.01,64.1
+"No","Other",3,2.85,73.1
+"No","Social Worker",5,2.83,58.5
+"Yes","Clinical",8,3.91,88.8
+"No","Social Worker",7,2.94,66.4
+"No","Other",7,3.03,90.4
+"Yes","Clinical",9,3.52,105.6
+"No","Other",6,4,70.3
+"No","Other",7,3.75,77.3
+"No","Social Worker",6,3.23,55.9
+"No","Other",12,3.09,47.1
+"No","Other",8,3.53,77.9
+"No","Other",7,2.96,61.6
+"No","Social Worker",6,3.46,66.3
+"No","Other",9,3.32,41.6
+"Yes","Social Worker",5,3.67,67.3
+"No","Other",12,2.82,72.3
+"No","Other",8,2.6,54.1
+"No","Other",4,3.33,55.1
+"No","Other",5,3.43,90.5
+"No","Social Worker",4,3.61,38
+"No","Social Worker",6,2.91,57.2
+"No","Other",6,2.84,85.9
+"No","Social Worker",6,3.75,61.7
+"No","Other",5,3.24,58.5
+"No","Other",8,2.82,64.1
+"No","Social Worker",4,3.49,54
