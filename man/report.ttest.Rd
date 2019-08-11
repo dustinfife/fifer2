@@ -6,7 +6,7 @@
 \alias{report.default}
 \title{Output APA style statistical significance from a ttest object}
 \usage{
-\method{report}{ttest}(object)
+report.ttest(object)
 }
 \arguments{
 \item{object}{a ttest object}
