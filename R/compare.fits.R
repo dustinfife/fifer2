@@ -168,7 +168,7 @@ compare.fits = function(formula, data, model1, model2=NULL, return.preds=F, sile
 	if (return.preds){
 		prediction.model
 	} else {
-		flexplot(formula, data=data, prediction=prediction.model, suppress_smooth=T, se=F, ...)
+		flexplot::flexplot(formula, data=data, prediction=prediction.model, suppress_smooth=T, se=F, ...)
 	}	
 
 }	

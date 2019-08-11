@@ -17,7 +17,5 @@ Depends:
     stats
 Imports:
     MASS,
-    ggplot2,
-    flexplot
-Remotes: dustinfife/flexplot
+    ggplot2
 RoxygenNote: 6.1.0
