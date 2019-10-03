@@ -140,18 +140,6 @@ ttest = function(y, x, related=F){
 
 
 
-#' Report ttest object Estimates (effect sizes and parameters)
-#'
-#' Report ttest object Estimates
-#' @aliases estimates.ttest estimates
-#' @param object a ttest object
-#' @export
-estimates.ttest = function(object){
-	file.name = deparse(substitute(object))
-	cat(paste("Cohen's d:\n", round(object$cohens.d[1], digits=3), " (", round(object$cohens.d[2], digits=2),", ", round(object$cohens.d[3], digits=2),")\n\nParameter Estimates:\n",sep=""))
-	print(object$estimates)
-}
-
 
 #' Output APA style statistical significance from a ttest object
 #'

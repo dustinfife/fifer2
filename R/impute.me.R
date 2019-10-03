@@ -31,9 +31,17 @@
 ##' impute.me(mod, data=d, predictors=predictors, keep=F, imputations=5)
 impute.me = function(model, data, predictors=NULL, keep=T, imputations=20, silent=F, return.mod=F){
 
+		variables = all.vars(model$call); variables = variables[-length(variables)]
+		outcome = variables[1]
+		
 		#### set up data to perform the imputations
 		if (!is.null(predictors)){
+			if (outcome %in% predictors){
+				predictors = predictors[-which(predictors == outcome)]
+			} 
+			if (length(predictors)>0){
 			data = make.null(predictors, data=data, keep=keep)
+			}
 		}
 
 		#### figure out missing data pattern
